@@ -1,0 +1,220 @@
+REHEVANE — STORY BIBLE
+=========================
+(Every story the game hath. Current canon. game.txt keepeth the original
+novel draft; where they differ, this file ruleth.)
+
+------------------------------------------------------------
+1 · THE NAME
+------------------------------------------------------------
+REHEVANE meaneth a grand fortress built on a high cliff, where magic and
+stone become one. Root words in the Old Tongue mean "high cliff" and
+"keeper of the light." The place: an ancient castle high above the clouds,
+its glowing crystals powering walls that hold back dark creatures. Its
+purpose: kings meet there to make peace; wizards study old secrets in the
+high towers.
+
+The sky-fallen hero beareth no name of this world. In Act I, the Guardian's
+Oath asketh him to speak his own name (the player speaketh it; the Oath
+recordeth it). But the world calleth him by title: REHEVANE — "thou art my
+fortress," "thou art where I am safe," magic and stone become one, and so
+did we. NPCs address him as Rehevane. His own thoughts, portraits and the
+fate-tree keep his oath-name.
+
+------------------------------------------------------------
+2 · RULE OF SPEECH
+------------------------------------------------------------
+The hero speaketh modern words — he is from Earth, and modern words mark
+him stranger everywhere. The people of Rehevane speak old words:
+thou = you, thee = you (as object), thy = your, thine = yours,
+art = are, hast = have, hath = has, doth = does, wilt = will,
+shalt = shall. Sentences stay short, that old speech readeth easy.
+
+------------------------------------------------------------
+3 · THE WORLD AND ITS WOUND
+------------------------------------------------------------
+Long ago came the First Off-worlder: an Earth man who lost someone and
+begged the world to end goodbye — "Make it that none leave me. Make love
+last evermore. Make it that I hear farewell never again."
+
+The world obeyed — wrongly, and literally. Love that refuseth loss became
+chain, brand, stone and oath. Thus the HEART DEVOURER was born: not hate,
+but love that will not face loss. It twisteth love into chains and knives,
+seedeth corruption nodes as scar tissue, and hungereth still. Hunger dieth
+not in one morn — but it can learn one word: ENOUGH.
+
+The hero is immune to fragments. That maketh him the HEART-BEARER — wanted
+by every power: wardens as leash, Silverwall as weapon, the Devourer as heir.
+Fragments run cold to his hand and burn all others.
+
+Heart Threads run between all living things — golden, blue, green, fraying
+black — and he, thread-seer, beholdeth them at a glance.
+
+------------------------------------------------------------
+4 · FACTIONS
+------------------------------------------------------------
+GREENWOOD WARDENS — elves of the Whispering Greenwood. Bows, root-halls,
+the great tree Vael-Thir. They leash what they fear: the Guardian's Oath
+bindeth a captain's life to her charge — should his being bring ruin, her
+heart stoppeth ere his.
+
+SILVERWALL KINGDOM — human walled cities, white stone, blue banners. King
+Aldric the Patient. The knight order trains Belladonna. Split within:
+isolationists vs interventionists; both want the Heart-Bearer as weapon.
+
+ASHEN SPIRES — dragonkin of ember and crater. Ruby's volcanic throne. Her
+family curse: wish for thyself, and thy heart stones. Proud, ceremonial,
+rotting from skyfire madness.
+
+PLAINS DEMI-FOLK — wolf-eared packs under the brand law: collar-marks that
+force obedience. Nyx chose her own pack — loudly, and in front of witnesses.
+
+MISTVEIL MARSH — one crooked tower, one kettle, ten thousand candles.
+Minerva charts the curse alone while her arms darken with it.
+
+STARLIA CHURCH — white stairs, ever-ringing bells. Raised Daisy kindly and
+spendeth her freely: thousands of prayers drain through her smile into the
+pit behind her heart — the Devourer's chief anchor.
+
+THE DEVOURER — grief with teeth. Scar tissue: wolves, thorns, blades, nodes.
+It speaketh with borrowed voices: "don't leave me," "STAY," "NEVER FAREWELL."
+
+------------------------------------------------------------
+5 · DRAMATIS PERSONAE (every name carrieth meaning)
+------------------------------------------------------------
+ROSALIND ("pretty rose") — pink-haired elf Guard-Captain, red cape, black
+bow. TSUNDERE, 27. Past DARK: her mother died trusting a human; the Oath
+will stop her own heart if she cares. Arc: oath-bound guard → reluctant
+teacher → woman who chooseth trust though the curse punisheth it.
+
+BELLADONNA ("beautiful lady" — and the deadly nightshade) — dark-haired
+knight-maid of Silverwall, violet-black gown, purple flower. YANDERE with
+dandere lean, 23. Past DARK: orphaned squire, first charge died on her
+first road; love unheld is love lost. Arc: perfect shield → Sworn Shield
+rite → protective miracle or Devourer's tool, by the player's hands.
+
+RUBY (the red fire-gem) — platinum crowned dragon Princess of the Ashen
+Flame, white-red fur gown, low horns. HIMEDERE, 29. Past WHOLESOME: never
+loved as Ruby, only as Highness; one selfish dream — a whole sunrise, hand
+in hand, crownless. Arc: statue → woman who dareth one sunrise.
+
+NYX (Greek, "night") — dark-violet wolf-eared huntress of the Plains,
+amber-red eyes, black-red coat. KUUDERE with sadodere edge, 21. Past CUTE
+with dark edge: branded collar-child; chose Rin — chose REHEVANE — loudly.
+Arc: barbed distance → chosen vulnerability → free choice.
+
+MINERVA (Roman wisdom) — silver-lavender scholar-witch of the Marsh,
+glasses, blue robe. KUUDERE, 26. Past WHOLESOME: trusts footnotes more than
+folk; arms darkening; wanteth, unscientific, to be read clearly, leaned
+upon, stayed with. Arc: distance → being seen → leaning.
+
+DAISY ("day's eye") — golden Saint of Starlia, blue-white dress. DEREDERE
+with hime edge, 24. Past WHOLESOME with dark core: the Church spendeth her;
+every prayer draineth through her smile. Smallest wish: one ordinary
+morning, loved as just a girl. Arc: symbol → person.
+
+LYRA — silver bound-heart, Keeper of the Sunken Archive, 22. DEREDERE.
+Born a bound-spirit, promised to a sky-fallen soul not yet fallen; sealed
+300 years in the grotto wall by the Thorned Stag's grief-magic — her spirit
+locked within her own sleeping flesh, lest any thread-seer wake her counsel.
+Three bindings fell to three truths; the last seal broke to a freely-given
+PRINCESS KISS. Now she dwelleth within his chest as his second heartbeat —
+guiding, teasing, loving aloud, stepping out in miniature whensoever he
+idlest. Bonus thread (the Decree counteth only the six). Soulbloom [F]:
+30 to all foes, cooldowns washed clean, forty heartbeats of surge. Full
+moon, midnight to one, openeth her falls; the Stag's death sealeth them
+forever.
+
+AEGIS (Greek, "shield-ward") — Lyra's seal-warden, a teal warden-light.
+Not a spell but a spirit. Passive: +25% XP, +50% spoils, deep mana (8/s),
+quarter-ward on wounds. Active [T]: half flesh, full mana, 8-heartbeat
+shield, full cleanse, 6-heartbeat auto-volley (45 heartbeats — 30 once Lyra
+is vowed). Counsel in Raphael cadence: Notice. Report. Warning.
+
+------------------------------------------------------------
+6 · ACT I — GREENWOOD (Outpost, Forest, Hollow)
+------------------------------------------------------------
+A Tokyo convenience-store shift endeth in white light: the sky cracketh
+violet, and he falleth through light onto damp leaves — into corrupted
+wolves, and Rosalind's arrow. "Stay where thou art, human."
+
+The elders smell Devourer on the night and a human from the sky, and would
+slay him; Rosalind beareth him instead under the Guardian's Oath — her life
+for his leash. He speaketh his name into the Oath and chooseth his past
+(class) in-world. He seeth Heart Threads: a pale-green one, shy, from her
+to him.
+
+Wolves purged (4). The Hollow's ward-door: the Thorned Stag — grief made
+warden, speaking with a man's voice — slain; the fragment burneth wardens
+but chill-eth only him. He beareth it to Rosalind. She nameth him
+Heart-Bearer and feareth what it meaneth.
+
+After dark, unarmored, unbound hair, east platform: hands, oaths, or teases
+— then dawn, the gate road, and Act II. (No interruption: the act turneth
+on a toast and walketh on.)
+
+------------------------------------------------------------
+7 · ACT II — ASHES, CHAINS, WHISPERS (Gate, Spires, Sky, Plains, Marsh)
+------------------------------------------------------------
+GATE — Belladonna, ??? Knight no more: "Halt, traveler... Rehevane?"
+SPIRES — Ruby's court by day (borrowed words, well spent), balcony by
+night; the stone-heart curse and one promised sunrise walk.
+SKY — the corrupted Sky-Node vortex, fed on despair; steadied by ruled
+flame and fragment-bearing.
+PLAINS — Nyx: reavers driven off, brand-threads cut, pack chosen.
+MARSH — Minerva: seen clearly, leaned upon; the tower vision of the First
+Sin — the First Off-worlder's prayer that made the Devourer. "I shall not
+repeat him. I choose, and keep choosing."
+
+------------------------------------------------------------
+8 · ACT III — BLADES, SAINTS, CHOICE (Silverwall, Starlia, Depths)
+------------------------------------------------------------
+SILVERWALL — Belladonna's guard; two Oathless blades felled; the Sworn
+Shield rite (halt-word bound); then her fear unraveled on the Walls, oath
+for oath, till the hungry thing drew back — waiting.
+STARLIA — Daisy, anchor of thousands of prayers; side chapel after dark;
+one ordinary morning, selfish and glorious.
+DEPTHS — beneath the cathedral: the Devourer struck through love itself,
+and each answered in her own tongue — halt, care, sunrise, fang, failure,
+maidhood. He bade farewell without letting go of love: "Go — and rest."
+Fragments warmed. Threads loosened into choice. The pit learned ENOUGH.
+
+FATES (no picker — play decideth): harem (all met, all bonds 6+, jealousy
+calm) → devotion (top score 14+, lead 6) → true pairs (Fire & Fang, Oath &
+Shield, Ink & Bells, both 8+) → truest solo (8+) → alone... unless soulbound:
+Lyra, evermore. Years-later mornings follow, 1–4 children, genders cast by
+fate. The Devourer starved — not died.
+
+------------------------------------------------------------
+9 · INTERLUDE — THE SUNKEN ARCHIVE (hidden, Act I grotto)
+------------------------------------------------------------
+West of the Greenwood, behind falling water that parteth only at full-moon
+midnight (twelve to one) — sealed forever if the Stag falleth first. The
+wall-script, three truths, and the last seal: no lock of iron, only a
+freely-given princess kiss, lip to lip, from the promised heart. She waked,
+asked if he meant it, and went within him. Aegis kindled beside. From that
+day two lights keep him: teal counsel at his shoulder, silver-red dawn
+behind his ribs — counting his heartbeats and calling them hers.
+
+------------------------------------------------------------
+10 · LAWS THAT BIND THE TALE
+------------------------------------------------------------
+- Full moon: day 3, then every 8th; the falls part midnight–1am only.
+- The Stag's death ere the waking sealeth the grotto in ALL acts.
+- The Oath: his ruin stoppeth her heart ere his.
+- Favor caps at 8 per axis; a spoken Devotion (vow) openeth 9–10. Vow
+  needeth bond 20+ with trust, respect and loyalty 5+ each. Lyra's heart
+  is locked whole from the first — no drama toucheth it.
+- Grand favor (+2 affection at once) stingeth every caring heart (+2 to
+  Belladonna); jealousy at 3+ (Belladonna 2+) competeth for him.
+- Solitude is no fate once soulbound — yet ever a fate if she sleepeth on.
+
+------------------------------------------------------------
+11 · OPEN THREADS (Acts IV–VI ground)
+------------------------------------------------------------
+- Hunger dieth not: the Devourer starved, learning "enough" — what next?
+- Scars remain: Oath-scar silent, stone thinned, brand paled, veins clear —
+  none fully gone. Belladonna's hunger only drew back, waiting.
+- Lyra evermore: a wife within the chest, through every realm to come.
+- The fortress itself — REHEVANE on the high cliff — unvisited. Kings,
+  peace-talks, high towers of old secrets: all unwritten.
+- The First Off-worlder's line: are there more sky-fallen? Who else fell?

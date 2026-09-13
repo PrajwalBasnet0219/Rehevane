@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>REHEVANE — Forest of Foreign Skies</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="wrap">
+  <!-- Title / class select -->
+  <div id="title-screen" class="screen">
+    <div class="title-bg"></div>
+    <div id="title-loader">
+      <div class="loader-sigil">✦</div>
+      <div class="loader-title">REHEVANE</div>
+      <div class="loader-barwrap"><div id="loader-fill"></div></div>
+      <div id="loader-text">Kindling the crystals…</div>
+    </div>
+    <div id="title-begin" class="hidden">
+      <div class="loader-sigil">✦</div>
+      <div class="begin-text">TAP TO BEGIN</div>
+    </div>
+    <div class="title-panel">
+      <img id="game-logo" src="Rehevane.png" alt="Rehevane">
+      <div class="title-eyebrow">✦ &nbsp;HIGH CLIFF · KEEPER OF THE LIGHT&nbsp; ✦</div>
+      <nav id="title-menu">
+        <button id="btn-continue" class="menu-opt"><span class="opt-diamond">◇</span><span>Continue</span></button>
+        <button id="btn-new" class="menu-opt"><span class="opt-diamond">◇</span><span>New Game</span></button>
+        <button id="btn-settings" class="menu-opt"><span class="opt-diamond">◇</span><span>Settings</span></button>
+        <button id="btn-exit" class="menu-opt"><span class="opt-diamond">◇</span><span>Exit</span></button>
+      </nav>
+      <div class="title-foot">Acts I–III · Forest, Ashes, Saints<br><span class="ver">v1.0 — the threads remember</span></div>
+    </div>
+    <div id="settings-box" class="hidden">
+      <h3>⚙ Settings</h3>
+      <div class="set-row"><span>Sound</span><button id="btn-sound" class="btn small">ON</button></div>
+      <div class="set-row"><span>Music</span><button id="btn-music" class="btn small">100%</button></div>
+      <div class="set-row"><span>Voices</span><button id="btn-voice" class="btn small">ON</button></div>
+      <div class="set-row"><span>Text speed</span><button id="btn-text" class="btn small">Normal</button></div>
+      <div class="set-row"><span>Guide</span><a id="btn-guide" class="btn small" href="guide.pdf" target="_blank" rel="noopener">📖 Ending Guide</a></div>
+      <div class="set-row"><span>Play</span><button id="btn-how" class="btn small">How to play</button></div>
+      <div id="help-box" class="hidden">
+        <b>WASD / Arrows</b> move · <b>Shift</b> sprint · <b>E / Enter</b> talk & enter (loot is automatic) · <b>Space</b> attack ·
+        <b>Q</b> class skill · <b>T</b> guardian counsel · <b>F</b> Soulbloom nova · <b>1-4</b> quick-use potion/food · <b>I</b> inventory · <b>J</b> journal/quests ·
+        <b>C</b> character · <b>R</b> relationships · <b>M</b> world map · <b>L</b> chronicle · <b>Esc</b> menu (save).
+        Open world: outpost → forest → dungeon → waterfall cave → gate → Ashen Approach → Spire Capital → sky → plains → marsh → Silverwall → Starlia → depths.
+      </div>
+      <button id="btn-settings-close" class="btn small">Close</button>
+    </div>
+    <div id="farewell-veil" class="hidden">
+      <div class="farewell-card">
+        <div class="loader-sigil">✦</div>
+        <p>The threads will remember thee.<br><i>Farewell, sky-fallen.</i></p>
+        <button id="btn-return" class="btn">Return</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Game -->
+  <div id="game-screen" class="screen hidden">
+    <canvas id="game" width="960" height="600"></canvas>
+    <!-- HUD -->
+    <div id="hud">
+      <div id="hud-left">
+        <div id="portrait">R</div>
+        <div id="bars">
+          <div class="bar"><div id="hp-fill"></div><span id="hp-text"></span></div>
+          <div class="bar mana"><div id="mp-fill"></div><span id="mp-text"></span></div>
+          <div class="bar exp"><div id="exp-fill"></div><span id="exp-text"></span></div>
+          <div id="hud-status"><span id="lvl-text"></span><span id="gold-text"></span><span id="clock-text"></span><span id="loc-text"></span></div>
+        </div>
+      </div>
+      <div id="hud-right">
+        <div id="skillbar"></div>
+      </div>
+      <div id="quest-tracker"></div>
+      <div id="minimap-wrap"><canvas id="minimap" width="160" height="120"></canvas><div id="minimap-label">Greenwood Outpost</div></div>
+      <div id="toast-stack"></div>
+      <div id="interact-prompt" class="hidden">E — Talk</div>
+      <div id="boss-bar" class="hidden"><span id="boss-name"></span><div class="bar boss"><div id="boss-fill"></div></div></div>
+    </div>
+    <!-- Dialogue -->
+    <div id="dialogue" class="hidden">
+      <div id="dlg-portrait-wrap"><img id="dlg-img" alt=""><div id="dlg-name"></div></div>
+      <div id="dlg-body"><div id="dlg-text"></div><div id="dlg-choices"></div>
+      <div id="dlg-hint">E / click — continue</div></div>
+    </div>
+    <!-- Panels -->
+    <div id="panel" class="hidden"><div id="panel-head"><span id="panel-title"></span><button id="panel-close" class="btn small">Close [Esc]</button></div><div id="panel-body"></div></div>
+    <!-- Shop / loot toast -->
+    <div id="toast" class="hidden"></div>
+    <!-- NAME OATH -->
+    <div id="name-screen" class="hidden">
+      <div class="name-veil"></div>
+      <div class="ember e1"></div><div class="ember e2"></div><div class="ember e3"></div><div class="ember e4"></div>
+      <div class="name-panel">
+        <span class="corner tl"></span><span class="corner tr"></span><span class="corner bl"></span><span class="corner br"></span>
+        <div class="name-eyebrow">✦ &nbsp;THE OATH REMEMBERS&nbsp; ✦</div>
+        <h2>SPEAK YOUR NAME</h2>
+        <div class="name-row">
+          <img src="assets/img/portraits/liliane.svg" alt="Rosalind">
+          <p>"The Oath bindeth lives, not names — and I shall not cry <i>'hey, thou'</i> across a battlefield. When I bid thee duck… <b>what name do I cry?</b>"</p>
+        </div>
+        <input id="name-input" maxlength="12" placeholder="Thy name" autocomplete="off" spellcheck="false">
+        <div class="name-thread"><span></span></div>
+        <button id="name-confirm" class="btn big">✦ &nbsp;Seal it in the Oath&nbsp; ✦</button>
+        <div class="name-hint">Up to 12 letters · Enter also seals · the world will speak it from this moment on</div>
+      </div>
+    </div>
+    <!-- CLASS OATH -->
+    <div id="class-screen" class="hidden">
+      <div class="name-veil"></div>
+      <div class="ember e1"></div><div class="ember e3"></div>
+      <div class="name-panel wide">
+        <span class="corner tl"></span><span class="corner tr"></span><span class="corner bl"></span><span class="corner br"></span>
+        <div class="name-eyebrow">✦ &nbsp;THE OATH ASKS WHAT YOU WERE&nbsp; ✦</div>
+        <h2>CHOOSE YOUR PAST</h2>
+        <p class="name-sub">Every past survives the fall differently. Click — or press 1–5.</p>
+        <div id="class-cards-ingame"></div>
+      </div>
+    </div>
+    <div id="fade"></div>
+    <div id="ending" class="hidden"></div>
+  </div>
+</div>
+<script src="js/data.js"></script>
+<script src="js/audio.js"></script>
+<script src="js/engine.js"></script>
+<script src="js/game.js"></script>
+</body>
+</html>

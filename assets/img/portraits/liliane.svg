@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#3d1a1a"/><stop offset="1" stop-color="#120a0a"/>
+</linearGradient></defs>
+<rect width="160" height="160" fill="url(#bg)"/>
+<path d="M44,70 C44,34 116,34 116,70 L120,160 L102,160 L104,90 L56,90 L58,160 L40,160 Z" fill="#e89aa8"/>
+<path d="M16,160 C20,130 52,120 80,120 C108,120 140,130 144,160 Z" fill="#1c1c22"/>
+<path d="M16,160 C20,130 44,122 62,120 L58,160 Z" fill="#8a1a1a"/>
+<path d="M144,160 C140,130 116,122 98,120 L102,160 Z" fill="#8a1a1a"/>
+<path d="M64,122 L80,140 L96,122" stroke="#d8b45c" stroke-width="2" fill="none"/>
+<path d="M70,122 L80,134 L90,122 L90,160 L70,160 Z" fill="#e8e4da"/>
+<rect x="73" y="96" width="14" height="26" fill="#e8bf98"/>
+<ellipse cx="80" cy="78" rx="26" ry="30" fill="#f7d3ac"/>
+<polygon points="55,74 30,62 52,64" fill="#f7d3ac"/>
+<polygon points="105,74 130,62 108,64" fill="#f7d3ac"/>
+<polygon points="60,52 46,42 48,60" fill="#1c1c22"/>
+<polygon points="60,52 76,42 74,60" fill="#1c1c22"/>
+<circle cx="61" cy="51" r="4" fill="#1c1c22"/>
+<ellipse cx="80" cy="54" rx="28" ry="17" fill="#e89aa8"/>
+<polygon points="52,62 58,50 62,64 66,50 70,64 74,50 78,64 82,50 86,64 90,50 94,64 98,50 102,64 106,50 108,62 104,74 100,62 96,74 92,62 88,74 84,62 80,74 76,62 72,74 68,62 64,74 60,62 56,73" fill="#e89aa8"/>
+<path d="M54,60 L48,108 L58,108 L60,66 Z" fill="#e89aa8"/>
+<path d="M106,60 L112,108 L102,108 L100,66 Z" fill="#e89aa8"/>
+<polygon points="60,68 74,65 72,71 60,72" fill="#5e2a2a"/>
+<polygon points="100,68 86,65 88,71 100,72" fill="#5e2a2a"/>
+<ellipse cx="68" cy="80" rx="5" ry="6" fill="#fff"/>
+<ellipse cx="92" cy="80" rx="5" ry="6" fill="#fff"/>
+<circle cx="68" cy="81" r="3" fill="#8a3a4a"/>
+<circle cx="92" cy="81" r="3" fill="#8a3a4a"/>
+<circle cx="68" cy="81" r="1.3" fill="#111"/>
+<circle cx="92" cy="81" r="1.3" fill="#111"/>
+<circle cx="69" cy="79.5" r="1" fill="#fff"/>
+<circle cx="93" cy="79.5" r="1" fill="#fff"/>
+<ellipse cx="62" cy="89" rx="4" ry="2.5" fill="#f09090" opacity="0.6"/>
+<ellipse cx="98" cy="89" rx="4" ry="2.5" fill="#f09090" opacity="0.6"/>
+<path d="M72,95 Q81,99 88,94" stroke="#8a4a3a" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>

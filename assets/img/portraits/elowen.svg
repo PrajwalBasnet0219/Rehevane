@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#252a44"/><stop offset="1" stop-color="#0d0f1c"/>
+</linearGradient></defs>
+<rect width="160" height="160" fill="url(#bg)"/>
+<circle cx="30" cy="40" r="1.5" fill="#fff" opacity="0.8"/>
+<circle cx="130" cy="30" r="1.5" fill="#fff" opacity="0.8"/>
+<circle cx="140" cy="70" r="1" fill="#fff" opacity="0.6"/>
+<!-- back hair (silver fall behind shoulders) -->
+<path d="M46,66 C46,32 114,32 114,66 L118,150 L100,150 L102,90 L58,90 L60,150 L42,150 Z" fill="#cfc8e0"/>
+<!-- back hood (dark blue veil, behind head) -->
+<path d="M34,72 C34,22 126,22 126,72 L130,124 L116,124 L116,70 L44,70 L44,124 L30,124 Z" fill="#2a3a6a" opacity="0.95"/>
+<!-- robe -->
+<path d="M16,160 C20,130 52,120 80,120 C108,120 140,130 144,160 Z" fill="#2a3a6a"/>
+<path d="M62,122 L80,140 L98,122" stroke="#d8b45c" stroke-width="2" fill="none"/>
+<circle cx="80" cy="132" r="3" fill="#d8b45c"/>
+<path d="M70,122 L80,134 L90,122 L90,160 L70,160 Z" fill="#e8e4da"/>
+<rect x="73" y="96" width="14" height="26" fill="#e5c09e"/>
+<!-- face + ears -->
+<ellipse cx="80" cy="78" rx="26" ry="30" fill="#f5d6b8"/>
+<ellipse cx="80" cy="107" rx="9" ry="3.5" fill="#e0aa80" opacity="0.85"/>
+<ellipse cx="54" cy="80" rx="4" ry="6" fill="#f5d6b8"/>
+<ellipse cx="106" cy="80" rx="4" ry="6" fill="#f5d6b8"/>
+<!-- bangs (kept LOW so hood rim covers the crown) -->
+<ellipse cx="80" cy="60" rx="26" ry="13" fill="#cfc8e0"/>
+<polygon points="54,64 59,54 63,66 67,54 71,66 75,54 79,66 83,54 87,66 91,54 95,66 99,54 103,66 106,58 104,72 100,64 96,72 92,64 88,72 84,64 80,72 76,64 72,72 68,64 64,72 60,64 56,71" fill="#cfc8e0"/>
+<rect x="62" y="69" width="12" height="2" fill="#6a6488"/>
+<rect x="86" y="69" width="12" height="2" fill="#6a6488"/>
+<!-- FRONT hood/veil (drawn OVER the hair crown, like the OG: dark blue covers the top) -->
+<path d="M32,84 C32,12 128,12 128,84 L114,84 C114,30 46,30 46,84 Z" fill="#2a3a6a"/>
+<path d="M46,80 C50,34 110,34 114,80" fill="none" stroke="#43578c" stroke-width="2.5" opacity="0.9"/>
+<path d="M32,84 L46,84 L44,124 L30,124 Z" fill="#2a3a6a"/>
+<path d="M114,84 L128,84 L130,124 L116,124 Z" fill="#2a3a6a"/>
+<!-- front silver side-locks hanging IN FRONT of the veil (OG look) -->
+<path d="M48,76 L60,76 L58,128 L46,128 Z" fill="#cfc8e0"/>
+<path d="M100,76 L112,76 L114,128 L102,128 Z" fill="#cfc8e0"/>
+<!-- eyes -->
+<ellipse cx="68" cy="80" rx="5" ry="5" fill="#fff"/>
+<ellipse cx="92" cy="80" rx="5" ry="5" fill="#fff"/>
+<circle cx="68" cy="81" r="2.8" fill="#5a5ab0"/>
+<circle cx="92" cy="81" r="2.8" fill="#5a5ab0"/>
+<circle cx="68" cy="81" r="1.2" fill="#111"/>
+<circle cx="92" cy="81" r="1.2" fill="#111"/>
+<circle cx="60" cy="80" r="10.5" fill="#ffffff" opacity="0.10"/>
+<circle cx="100" cy="80" r="10.5" fill="#ffffff" opacity="0.10"/>
+<circle cx="60" cy="80" r="10.5" fill="none" stroke="#2a2a38" stroke-width="2"/>
+<circle cx="100" cy="80" r="10.5" fill="none" stroke="#2a2a38" stroke-width="2"/>
+<path d="M70.5,79 L89.5,79" stroke="#2a2a38" stroke-width="2"/>
+<path d="M74,96 L86,96" stroke="#8a4a3a" stroke-width="1.6" stroke-linecap="round"/>
+</svg>

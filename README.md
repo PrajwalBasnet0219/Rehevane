@@ -44,7 +44,7 @@ Click **New Game** (or **Continue** with a save), tap once to begin — browsers
 
 ## Story (spoiler-light)
 
-Acts I–III take you from a cracked sky over Tokyo to the pit beneath Starlia, where love itself is the final boss mechanic. Full bible: [`story.txt`](story.txt). Ending guide: `guide.pdf`.
+Acts I–III take you from a cracked sky over Earth to the pit beneath Starlia, where love itself is the final boss mechanic. Full bible: [`story.txt`](story.txt). Ending guide: `guide.pdf`.
 
 <details>
 <summary>Spoiler zone — mechanics that matter</summary>

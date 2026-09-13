@@ -2,7 +2,7 @@
 
 > *Thou art my fortress. Thou art where I am safe.*
 
-A story-first open-world action RPG in the browser — no build step, no dependencies. Fall from Tokyo into a world that obeys grief too literally, earn your name in the Guardian's Oath, and teach it to love without breaking.
+A story-first open-world action RPG in the browser — no build step, no dependencies. Fall from Earth into a world that obeys grief too literally, earn your name in the Guardian's Oath, and teach it to love without breaking.
 
 ![Rehevane](Rehevane.png)
 
